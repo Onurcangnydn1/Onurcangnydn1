@@ -1,4 +1,4 @@
-
+![MasterHead](https://bilimvegelecek.com.tr/wp-content/uploads/2018/01/yazilim-bilisim-kodlama-1.jpg)
 <h1 align="center">Hi 👋, I'm Onur Can Günaydın</h1>
 <h3 align="center">I am a software student and I am read to improve myself.</h3>
 
