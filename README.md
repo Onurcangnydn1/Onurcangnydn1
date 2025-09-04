@@ -1,4 +1,4 @@
-[![MasterHead](https://share.google/images/MJUJphGdHDF4bEcec)
+
 <h1 align="center">Hi 👋, I'm Onur Can Günaydın</h1>
 <h3 align="center">I am a software student and I am read to improve myself.</h3>
 
